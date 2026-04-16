@@ -19,3 +19,4 @@ The Prototype pattern is a creational design pattern that lets us copy existing 
 ---
 
 ## UML Diagram:
+<img width="4371" height="1504" alt="image" src="https://github.com/user-attachments/assets/b0cd8786-b15f-4743-85b9-bdd711fb28d2" />
