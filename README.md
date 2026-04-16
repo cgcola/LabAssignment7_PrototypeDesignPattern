@@ -3,7 +3,6 @@
 ## Overview
 This repository contains a Java implementation of the **Prototype Design Pattern**, based on a specific UML diagram assignment. 
 
-## What is it For?
 This codebase serves as a demonstration of the **Prototype Design Pattern** in Java. 
 
 The Prototype pattern is a creational design pattern that lets us copy existing objects without making our code dependent on their classes. Instead of instantiating new objects from scratch using the `new` keyword, this system:
